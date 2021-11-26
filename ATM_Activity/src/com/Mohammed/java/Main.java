@@ -2,8 +2,8 @@ package com.Mohammed.java;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 public class Main {
-// Create an application that acts as an ATM machine. The initial balance should start at 0. 
-// Ask the user for a deposit/withdrawl and use this to affect the actual balance. Reflect the change in balance using a print out statement.
+// This is an application that acts as an ATM machine. The initial balance starts at 0. 
+// I will ask the user for a deposit/withdraw and use this to affect the actual balance, reflecting the change in balance using a print out statement.
 // This transaction process should loop till the user types done instead of a number.
 	public static void main(String[] args) {
 		Scanner Sc=new Scanner (System.in);
